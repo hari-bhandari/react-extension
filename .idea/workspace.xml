@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aff08a3d-08ae-4bb6-bb23-9c6158ac691a" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DkTVFVHONrcJR3WjbAxr5fojcU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/harib/WebstormProjects/react-extension/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "yarn",
+    "prettierjs.PrettierConfiguration.Package": "C:\\Users\\harib\\WebstormProjects\\react-extension\\node_modules\\prettier",
+    "ts.external.directory.path": "C:\\Users\\harib\\WebstormProjects\\react-extension\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\harib\WebstormProjects\react-extension\src" />
+      <recent name="C:\Users\harib\WebstormProjects\react-extension\src\assets" />
+      <recent name="C:\Users\harib\WebstormProjects\react-extension\src\pages\Newtab\Src" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\harib\WebstormProjects\react-extension\src" />
+      <recent name="C:\Users\harib\WebstormProjects\react-extension\src\pages\Newtab\Src\hooks" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aff08a3d-08ae-4bb6-bb23-9c6158ac691a" name="Changes" comment="" />
+      <created>1661242104936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661242104936</updated>
+      <workItem from="1661242106197" duration="1386000" />
+      <workItem from="1661243528265" duration="7327000" />
+      <workItem from="1661259614669" duration="400000" />
+      <workItem from="1661264824559" duration="3333000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
